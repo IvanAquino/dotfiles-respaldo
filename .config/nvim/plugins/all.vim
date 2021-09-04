@@ -1,0 +1,12 @@
+source ~/.config/nvim/plugins/coc.vim
+source ~/.config/nvim/plugins/lightline.vim
+source ~/.config/nvim/plugins/projects.vim
+source ~/.config/nvim/plugins/easy-align.vim
+source ~/.config/nvim/plugins/nvim-comment.vim
+source ~/.config/nvim/plugins/nvim-autopairs.vim
+source ~/.config/nvim/plugins/nvim-tree.vim
+source ~/.config/nvim/plugins/nvim-colorizer.vim
+source ~/.config/nvim/plugins/git-signs.vim
+source ~/.config/nvim/plugins/telescope.vim
+source ~/.config/nvim/plugins/toggleterm.vim
+source ~/.config/nvim/plugins/flutter.vim
